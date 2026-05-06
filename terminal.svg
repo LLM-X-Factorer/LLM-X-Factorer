@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace">
+  <rect width="880" height="440" rx="10" ry="10" fill="#1a1b26"/>
+  <rect width="880" height="36" rx="10" ry="10" fill="#16161e"/>
+  <rect y="26" width="880" height="10" fill="#16161e"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="18" r="6" fill="#28c840"/>
+  <text x="440" y="23" text-anchor="middle" fill="#a9b1d6" font-size="13">~/llm-x-factorer</text>
+
+  <g font-size="14">
+    <text x="24" y="76" fill="#7aa2f7">$<tspan dx="6" fill="#c0caf5">whoami</tspan></text>
+    <text x="24" y="100" fill="#c0caf5">LLM-X-Factorer  <tspan fill="#565f89">·</tspan>  Independent developer</text>
+    <text x="24" y="122" fill="#c0caf5">AI agents @ Tenisinfinite Tech  <tspan fill="#565f89">·</tspan>  Hong Kong</text>
+
+    <text x="24" y="166" fill="#7aa2f7">$<tspan dx="6" fill="#c0caf5">cat now.md</tspan></text>
+    <text x="24" y="190" fill="#9ece6a">factorer.app</text>
+    <text x="24" y="212" fill="#c0caf5">A 10-week bilingual course on SEO + GEO</text>
+    <text x="24" y="234" fill="#565f89">29 lessons · first 3 weeks free</text>
+
+    <text x="24" y="278" fill="#7aa2f7">$<tspan dx="6" fill="#c0caf5">ls ./building</tspan></text>
+
+    <text x="24" y="302" fill="#7aa2f7">ai-agents/</text>
+    <text x="220" y="302" fill="#c0caf5">enterprise automation</text>
+
+    <text x="24" y="324" fill="#7aa2f7">seo-geo/</text>
+    <text x="220" y="324" fill="#c0caf5">Chinese AI search ecosystem</text>
+
+    <text x="24" y="346" fill="#7aa2f7">content-tools/</text>
+    <text x="220" y="346" fill="#c0caf5">md &#x2192; red / wechat / podcast pipelines</text>
+
+    <text x="24" y="390" fill="#7aa2f7">$<tspan dx="10" fill="#c0caf5">█</tspan></text>
+  </g>
+</svg>
