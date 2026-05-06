@@ -1,27 +1,21 @@
-## Hi, I'm LLM-X-Factor
+## LLM-X-Factorer
 
-I build tools and content at the intersection of AI and search.
+独立开发者。目前在 [天尼斯无限科技 / Tenisinfinite Tech](https://www.tenisinfinite.com/) 做 AI agent 与企业自动化咨询。业余折腾 AI × 搜索方向的工具和内容——SEO、GEO、中文 AI 搜索生态。
 
-### What I'm working on
+Independent developer. AI agents and enterprise automation at [Tenisinfinite Tech](https://www.tenisinfinite.com/). Side projects on AI tooling, SEO/GEO, and the Chinese AI search ecosystem.
 
-**[SEO + GEO 入门课程](https://factorer.app/)** — A free 10-week Chinese-language course teaching SEO and Generative Engine Optimization (GEO) from beginner to intermediate level. Built with data from the KDD 2024 GEO paper and 2025-2026 industry research (Ahrefs, BrightEdge, HBR).
+### 当前重点 / Currently
 
-- 29 lessons covering keyword research, on-page SEO, technical SEO, GEO deep-dive, AI citation optimization, third-party platform strategies, and measurement
-- First 3 weeks completely free, no signup required
-- Course site: **[factorer.app](https://factorer.app/)**
+**[factorer.app](https://factorer.app/)** — SEO + GEO 中文入门课程，29 课时，前 3 周免费无需注册。A 10-week bilingual course on SEO and Generative Engine Optimization.
 
-### Interests
+其他项目见下方 pinned · See pinned repos below.
 
-- Search Engine Optimization (SEO) & Generative Engine Optimization (GEO)
-- How AI search engines decide what to cite (RAG, retrieval, citation selection)
-- Chinese AI search ecosystem: Kimi, DeepSeek, Wenxin Yiyan, Doubao
-- llms.txt, structured data, and making content AI-friendly
+### 联系 / Find me
 
-### Links
-
-- Course: [factorer.app](https://factorer.app/)
-- Twitter/X: [@JadeGateAI](https://x.com/JadeGateAI)
-- Zhihu: [dt-35-81](https://www.zhihu.com/people/dt-35-81)
-- Xiaohongshu: [Profile](https://www.xiaohongshu.com/user/profile/67cfd1270000000008017fe3)
-- Jike: [Profile](https://web.okjike.com/u/630DA54B-3708-43B1-A900-7D266794AA4C)
-- Bilibili: [Channel](https://space.bilibili.com/3546970262079983)
+- 公司 / Company · [tenisinfinite.com](https://www.tenisinfinite.com/)
+- 课程 / Course · [factorer.app](https://factorer.app/)
+- Twitter / X · [@JadeGateAI](https://x.com/JadeGateAI)
+- 知乎 / Zhihu · [dt-35-81](https://www.zhihu.com/people/dt-35-81)
+- 小红书 / Xiaohongshu · [Profile](https://www.xiaohongshu.com/user/profile/67cfd1270000000008017fe3)
+- 即刻 / Jike · [Profile](https://web.okjike.com/u/630DA54B-3708-43B1-A900-7D266794AA4C)
+- B 站 / Bilibili · [Channel](https://space.bilibili.com/3546970262079983)
