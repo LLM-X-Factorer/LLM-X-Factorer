@@ -1,6 +1,6 @@
 ## LLM-X-Factorer
 
-独立开发者。目前在 [天尼斯无限科技 / Tenisinfinite Tech](https://www.tenisinfinite.com/) 做 AI agent 与企业自动化咨询。业余折腾 AI × 搜索方向的工具和内容——SEO、GEO、中文 AI 搜索生态。
+独立开发者。目前在 [十方无限科技 / Tenisinfinite Tech](https://www.tenisinfinite.com/) 做 AI agent 与企业自动化咨询。业余折腾 AI × 搜索方向的工具和内容——SEO、GEO、中文 AI 搜索生态。
 
 Independent developer. AI agents and enterprise automation at [Tenisinfinite Tech](https://www.tenisinfinite.com/). Side projects on AI tooling, SEO/GEO, and the Chinese AI search ecosystem.
 
