@@ -1,18 +1,42 @@
-## LLM-X-Factorer
+<p align="center">
+  <img src="./terminal.svg" alt="LLM-X-Factorer terminal" width="880">
+</p>
 
-独立开发者。目前在 [十方无限科技 / Tenisinfinite Tech](https://www.tenisinfinite.com/) 做 AI agent 与企业自动化咨询。
-业余折腾 AI × 搜索方向的工具和内容——SEO、GEO、中文 AI 搜索生态。
+## 当前重点 / Currently
 
-Independent developer. AI agents and enterprise automation at [Tenisinfinite Tech](https://www.tenisinfinite.com/).
-Side projects on AI tooling, SEO/GEO, and the Chinese AI search ecosystem.
+**[factorer.app](https://factorer.app/)** — SEO + GEO 中文入门课程，29 课时，前 3 周免费无需注册。
+A 10-week bilingual course on SEO and Generative Engine Optimization.
 
-### 当前重点 / Currently
+## 在做的 / Building
 
-**[factorer.app](https://factorer.app/)** — SEO + GEO 中文入门课程，29 课时，前 3 周免费无需注册。A 10-week bilingual course on SEO and Generative Engine Optimization.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AI agents</h4>
+      <sub>企业自动化咨询 @ <a href="https://www.tenisinfinite.com/">Tenisinfinite Tech</a><br>
+      Enterprise automation consulting</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>SEO / GEO</h4>
+      <sub>中文 AI 搜索生态实践<br>
+      <a href="https://github.com/LLM-X-Factorer/cn-seo-geo-atlas">cn-seo-geo-atlas</a> · <a href="https://github.com/LLM-X-Factorer/awesome-geo-cn">awesome-geo-cn</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>Content pipelines</h4>
+      <sub>md → 红书 / 公众号 / 播客 / 文章<br>
+      <a href="https://github.com/LLM-X-Factorer/md2red">md2red</a> · <a href="https://github.com/LLM-X-Factorer/podcraft">podcraft</a> · <a href="https://github.com/LLM-X-Factorer/topic2md">topic2md</a></sub>
+    </td>
+    <td valign="top">
+      <h4>Scout &amp; advocate</h4>
+      <sub>AI 工程选题侦察 + 内容生产 SOP<br>
+      <a href="https://github.com/LLM-X-Factorer/llmx-scout-agent">llmx-scout-agent</a> · <a href="https://github.com/LLM-X-Factorer/llmx-advocate-agent">llmx-advocate-agent</a></sub>
+    </td>
+  </tr>
+</table>
 
-其他项目见下方 pinned · See pinned repos below.
-
-### 联系 / Find me
+## 联系 / Find me
 
 - 公司 / Company · [tenisinfinite.com](https://www.tenisinfinite.com/)
 - 课程 / Course · [factorer.app](https://factorer.app/)
