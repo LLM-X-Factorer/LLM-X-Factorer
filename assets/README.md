@@ -10,9 +10,11 @@ The workshop illustration was created for this profile with OpenAI's built-in im
 
 ## Motion and interaction
 
-The illustration floats slowly; small background pixels brighten and a decorative packet crosses the idea-to-tool line. These do not report live tasks or deployment status. Static assets omit all animation styles. The README chooses static assets through the outer `picture` element when reduced motion is requested; the animated SVGs also include a reduced-motion CSS guard.
+The illustration floats slowly; small background pixels brighten and a decorative packet crosses the idea-to-tool line. These do not report live tasks or deployment status. Static assets omit all animation styles. The animated SVGs also include a reduced-motion CSS guard.
 
-The image itself has no JavaScript, embedded links, or hover behavior. The README wraps the navigation assets in real links and uses native `details` controls for the drawers.
+The README uses two adjacent linked pictures. Their outer anchors end in `#gh-light-mode-only` and `#gh-dark-mode-only`, allowing GitHub's theme CSS to hide the entire inactive picture. Each picture selects only viewport and reduced-motion variants, in this order: mobile + reduced motion, mobile, reduced motion, and the desktop animated fallback. This avoids relying on GitHub's `themed-picture` wrapper to preserve compound color-scheme queries. See [the research notes](../docs/design-research.md#platform-constraints-and-evidence) for the inspected CSS and the reported compound-query risk.
+
+The image itself has no JavaScript, embedded links, or hover behavior. Clicking the hero follows one native image link to its SVG source; individual objects inside it cannot be clicked. The README wraps the separate navigation assets in real section links and uses native `details` controls for the drawers.
 
 ## Generation prompt
 
