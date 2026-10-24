@@ -14,9 +14,9 @@
 把复杂工作做成有用的 AI 工具，和同行一起把细节打磨好。
 
 <p align="center">
-  <a href="#agent-bay"><img src="assets/nav-agent.svg" width="260" alt="Explore the Agent bay"></a>
-  <a href="#workflow-shelf"><img src="assets/nav-workflows.svg" width="260" alt="Browse the Workflow shelf"></a>
-  <a href="#quest-board"><img src="assets/nav-quests.svg" width="260" alt="Find a contribution on the Quest board"></a>
+  <a href="#-agent-bay"><img src="assets/nav-agent.svg" width="260" alt="Explore the Agent bay"></a>
+  <a href="#-workflow-shelf"><img src="assets/nav-workflows.svg" width="260" alt="Browse the Workflow shelf"></a>
+  <a href="#-quest-board"><img src="assets/nav-quests.svg" width="260" alt="Find a contribution on the Quest board"></a>
 </p>
 
 ## <img src="assets/icon-agent.svg" width="30" alt=""> Agent bay
