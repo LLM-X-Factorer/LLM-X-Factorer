@@ -1,15 +1,14 @@
-<picture>
+<a href="assets/hero-light.svg#gh-light-mode-only"><picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-light-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/hero-light-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light-still.svg">
-  <img src="assets/hero-light.svg#gh-light-mode-only" width="1200" alt="LLM-X-Factorer's pixel workshop — a place for AI agents, practical tools, and open collaboration.">
-</picture>
-<picture>
+  <img src="assets/hero-light.svg" width="1200" alt="LLM-X-Factorer's pixel workshop — a place for AI agents, practical tools, and open collaboration.">
+</picture></a><a href="assets/hero-dark.svg#gh-dark-mode-only"><picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-dark-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/hero-dark-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-dark-still.svg">
-  <img src="assets/hero-dark.svg#gh-dark-mode-only" width="1200" alt="LLM-X-Factorer's pixel workshop — a place for AI agents, practical tools, and open collaboration.">
-</picture>
+  <img src="assets/hero-dark.svg" width="1200" alt="LLM-X-Factorer's pixel workshop — a place for AI agents, practical tools, and open collaboration.">
+</picture></a>
 
 **I build AI agents, document workflows, and practical tools.**
 
